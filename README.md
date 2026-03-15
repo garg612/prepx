@@ -128,7 +128,6 @@ AI-Interview-System
 │
 └── README.md
 
-
 ---
 
 ## ⚡ Installation
