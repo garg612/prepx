@@ -4,6 +4,7 @@ An AI-powered mock interview platform that evaluates candidates using **Natural 
 
 The system analyzes **answers, voice behavior, facial expressions, and communication quality** to generate an **Employability Score** and detailed feedback.
 
+
 ---
 
 ## 🚀 Features
